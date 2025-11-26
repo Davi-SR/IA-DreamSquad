@@ -73,8 +73,8 @@ Exemplo de estrutura:
 ### 2. Clonar o repositório
 
 ```bash
-git clone <URL_DO_SEU_REPOSITORIO>
-cd <PASTA_DO_REPOSITORIO>
+git clone https://github.com/Davi-SR/IA-DreamSquad.git
+cd IA-DreamSquad
 ```
 
 ### 3. (Opcional, mas recomendado) Criar ambiente virtual
@@ -84,7 +84,7 @@ Mesmo que você não tenha usado, é boa prática sugerir:
 ```bash
 python -m venv venv
 source venv/bin/activate      # Linux/macOS
-venv\Scriptsctivate         # Windows
+venv\Scripts\ctivate         # Windows
 ```
 
 ### 4. Instalar dependências
