@@ -1,3 +1,6 @@
 fastapi
 uvicorn[standard]
 python-dotenv
+strands-agents
+strands-agents[ollama]
+strands-agents-tools
